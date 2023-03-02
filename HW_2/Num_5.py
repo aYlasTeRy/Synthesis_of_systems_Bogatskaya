@@ -1,3 +1,5 @@
+# https://www.codewars.com//kata/566be96bb3174e155300001b
+
 def max_ball(v0):
     g = 9.81
     v = (v0 * 1000/3600)
